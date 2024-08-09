@@ -1,0 +1,28 @@
+.text1 {
+    font-family:"open sans" "arial" sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.text2 {
+    font-family: serif;
+    text-decoration:line-through;
+    font-weight: 550;
+}
+
+.text3 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.text4 {
+    text-decoration: overline wavy;
+    word-spacing: 30px;
+}
+
+.text5 {
+    letter-spacing: 5px;
+    text-decoration: underline double;
+}

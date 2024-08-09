@@ -1,0 +1,30 @@
+body {
+    font-size: 40px;
+}
+/* ====================================================== */
+* {
+    box-sizing: border-box;
+}
+
+.block{
+    padding: 30px;
+    margin: 50px;
+    background: #e2bd8c;
+    box-shadow: inset 3px 2px 25px #65e2e2;
+    border-radius: 10%;
+    display: inline-block;
+    width: 20%;
+
+}
+
+
+.inline {
+    display: block;
+    padding: 20px;
+    margin: 20px;
+}
+
+.img {
+    box-shadow: 24px 30px 20px #d19f5f ;
+    display: none;
+}

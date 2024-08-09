@@ -1,0 +1,38 @@
+body {
+    font-size: 40px;
+}
+/* ====================================================== */
+* {
+    box-sizing: border-box;
+}
+
+.block-1 {
+    border: 10px solid #000;
+    background: #8b3e3e;
+    padding: 30px;
+    border-bottom: 20px dashed #4603ff;
+}
+
+.block-2 {
+    border: 10px double #a50a45;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20%;
+}
+
+.block-3 {
+    border: 20px groove #0a5fa5;
+    border-top-right-radius: 10%;
+    padding: 10px;
+    margin: 20px;
+    
+}
+
+
+.inline {
+}
+
+.img {
+    border: 10px dotted #09bb12;
+    border-bottom-right-radius: 10%;
+}

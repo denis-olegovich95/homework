@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+.rama {
+    border: 1px solid #000;
+    height: 500px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    overflow: auto;
+}
+
+.block{
+    border: 1px solid #000;
+    border-radius: 20px;
+    background-color: #d1ae7a;
+    padding: 15px;
+    margin: 10px;
+    display: inline-block;
+    width: 20%;
+    box-shadow: inset 1px 1px 30px #c1c4e2;
+}
